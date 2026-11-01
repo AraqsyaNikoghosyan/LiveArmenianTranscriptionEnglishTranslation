@@ -1,0 +1,13 @@
+numpy
+scipy
+soundfile
+onnxruntime
+onnx-asr
+sherpa-onnx
+ctranslate2
+transformers
+sentencepiece
+huggingface_hub
+PyAudioWPatch; sys_platform == "win32"
+# only for the one-time translation-model conversion in setup_models.py:
+# torch  (pip install torch --index-url https://download.pytorch.org/whl/cpu)

@@ -1,0 +1,9 @@
+models/
+.venv/
+__pycache__/
+*.wav
+bench/data/
+bench/ct2_models/
+speaker/data/
+speaker/models/
+sim*
